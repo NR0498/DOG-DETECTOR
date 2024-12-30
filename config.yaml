@@ -1,0 +1,7 @@
+path: D:\python_yolo\detection\data
+train: images\train
+val: images\train
+
+#classes
+names:
+  0: dog
